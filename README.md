@@ -2,9 +2,10 @@
 
 ![Alt text](img/Preview.png) 
 
-#
+
 
 <h2 align = "center"> Projeto construído em conjunto da Alura, é um sólido e responsivo site de 3 páginas aplicado a uma barbearia.</h2>
+
 
 
 
